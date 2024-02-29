@@ -1,0 +1,89 @@
+Emp.id,Employee Name,Role,Experience,Skill Set,No of Tasks Completed,Avg Time To Finish Tasks (in Days),SuccessFull Completions Percentage,Approved OnTime,Category,Inexpert_Assigned
+155718982,Mathew,Full-Stack Developer,12,"HTML/CSS,JavaScript,TypeScript ,Java,Python",51,19,23.98043776,78.27294683,Expert,0
+732060536,Harini,Blockchain Developer,12,"C++,Java,JavaScript,Node.js,Python,Ruby,Swift",20,20,49.38893728,28.89525496,Expert,0
+209483166,Surya,Cloud Engineer,8,"Python,Go (Golang),Ruby,JavaScript (Node.js),PHP (for certain cloud applications)",88,16,69.26319787,14.93495718,Expert,1
+825313720,Anu,Web Developer,6,"HTML,CSS,JavaScript,TypeScript ,Python,Ruby ",81,21,94.71674383,46.92185106,Expert,1
+164489922,sai panshul,UI/UX Designer,4,"HTML/CSS,JavaScript,TypeScript ,Sass or Less,JSON ",42,25,10.61295993,94.77791036,Expert,1
+579816546,Sarah Roberts,Data Scientist,4,"Python,R,SQL",78,16,90.09636624,88.68433599,Expert,2
+732265973,Adam Walker,Business Analyst,6,"SQL,Python,R",36,10,23.74797486,94.72823637,Expert,2
+159888978,David Mitchell,Software Architect,7,"Java,C#,C++,Python",83,25,77.88431303,81.02099788,Expert,2
+868974143,Jessica Turner,Game Developer,10,"C++,C#,JavaScript,Python",13,13,64.02528096,23.63809005,Expert,3
+815490143,Michael Carter,Product Manager,11,"SQL,JavaScript,Python,R,HTML,CSS",63,10,66.38521444,85.78733893,Expert,3
+605000304,Olivia Clark,Big Data Engineer,5,"Java,Scala,Python,SQL,R",26,13,65.56237067,4.052380274,Expert,4
+241923555,"Megan Anderson
+",DevOps Engineer,4,"Go (Golang),Python,Ruby,Perl,JavaScript,Node.js,AWS",61,29,47.64202704,45.65559004,Expert,4
+553274304,Brian White,Back-End Developer,4,"SQL,NoSQL,HTML,CSS,JavaScript",15,14,17.74136714,93.5836143,Expert,5
+794308076,Laura Martinez,Full-Stack Developer,15,"Python,Ruby,PHP,C#,Node.js,SQL ",19,10,5.272119177,9.27648422,Expert,5
+456941697,Jason Thompson,AI Ethics Researcher,4,"Python,Julia,SAS,MATLAB,SQL ,Ruby",61,30,10.14082407,78.29804795,Expert,5
+693705973,Alyssa Adams,Web Developer,13,"PHP,Java ,C# ,Node.js ,SQL ",87,10,59.01112504,38.90536892,Expert,6
+233924418,Kevin Baker,Mobile App Developer,5,"Swift,Kotlin,Java,JavaScript,Dart",1,15,86.48241849,99.68497684,Expert,6
+657054393,Natalie Wright,Game Developer,4,"C++,Java,Lua,Ruby,Haxe",54,24,84.69249016,96.7153737,Expert,6
+646823391,Samuel Harris,Automation Engineer,10,"Python,Java,Ruby,JavaScript,C#",85,22,68.95009611,56.27877825,Expert,7
+274393191,Amanda Young,Product Manager,4,"SQL,JavaScript,Python,R",80,24,35.61265202,52.50467322,Expert,7
+401106769,Eric Murphy,Business Analyst,4,"Excel,SAS,R,Python",97,26,99.85888401,52.26750133,Expert,7
+456415210,Jennifer Lewis,Cloud Engineer,13,"Java,PowerShell,Bash,C#",36,24,17.17157754,35.39001732,Expert,8
+634774135,Tyler Foster,AI Ethics Researcher,14,"Python,Julia,SAS,MATLAB,SQL ,Ruby",61,26,21.46406146,81.07151707,Expert,8
+236366324,Rachel Hill,UI/UX Designer,4,"JSON,XML,SVG,WebGL,SQL ",94,17,93.46216718,31.54702199,Expert,8
+470319592,Patrick Miller,Front-End Developer,5,"HTML,CSS,JavaScript",84,29,60.12336941,18.38151143,Expert,9
+521575817,Lauren Brown,DevOps Engineer,9,"Perl,JavaScript,Node.js,Go (Golang),Groovy",2,23,23.59836496,95.29204931,Expert,9
+390803273,Christopher Lee,Big Data Engineer,8,"SQL,R,Pig Latin,HiveQL,Spark,JavaScript,Bash",75,19,55.12766205,35.26378258,Expert,9
+134957923,Maria Smith,Game Developer,5,"C++,C#,JavaScript,Python,Java",23,10,80.4560541,42.68851045,Expert,10
+186047942,Anthony Davis,UI/UX Designer,6,"JSON ,XML,SVG,WebGL ,SQL ",15,28,83.64903568,16.30672646,Expert,11
+733372124,Samantha Turner,Product Manager,9,"SQL,JavaScript,Python,R,Java",10,10,52.13692555,51.69181685,Expert,11
+243095886,Joshua Wilson,Data Scientist,15,"Julia,Scala,SAS,MATLAB",60,26,10.32628208,90.60605136,Expert,11
+478383598,Elizabeth Taylor,Cloud Engineer,12,"Java,Python,Go (Golang),Ruby,Bash",31,16,74.42041569,46.50626945,Expert,12
+904836800,Brandon Phillips,Software Architect,8,"Java,C#,C++",26,15,33.4526445,16.20687743,Expert,12
+638039455,Allison Reed,Web Developer,5,"HTML,CSS,JavaScript,TypeScript,Python",64,10,88.49268827,36.46384035,Expert,12
+826765021,Nicole Walker,Business Analyst,7,"SQL,Python,Excel,Julia ",16,29,85.1491844,40.79714496,Expert,13
+601229171,Justin Thompson,AI Ethics Researcher,4,"Python,Julia,SQL ,Ruby",77,24,88.44716746,55.21694462,Expert,13
+298152839,Heather Anderson,Game Developer,5,"C++,C#,JavaScript,Python,Java,Ruby,Haxe",33,19,43.38872185,92.07356493,Expert,14
+708048119,Robert Clark,Blockchain Developer,14,"C++,Java,JavaScript,Ruby",90,28,36.20737547,59.80304635,Expert,14
+870171391,Stephanie Carter,Automation Engineer,13,"Python,Java,Ruby,JavaScript,C#",67,28,29.1625705,11.90271124,Expert,14
+591583315,Nicholas Turner,Full-Stack Developer,5,"HTML,CSS,JavaScript,TypeScript ,Java,Python",99,29,16.8653838,50.3786128,Expert,15
+575525611,Christina Martinez,User Researcher,7,"User Research Methodologies,Data Analysis,User Persona Development,Cryptography",85,20,61.04302016,25.03267198,Expert,15
+463504475,Jessica Roberts,Big Data Engineer,7,"Java,Scala,Python,HiveQL,Spark,JavaScript,Bash",49,17,16.1574545,80.69072255,Expert,15
+476560478,Jonathan Taylor,DevOps Engineer,5,"Bash,Python,Ruby,Perl,JavaScript,Node.js",57,15,16.426937,16.72472739,Expert,16
+568584260,Michelle Foster,Business Analyst,7,"Julia,R,Python,Excel",37,19,76.21567371,67.10684364,Expert,17
+174316503,Maria Smith,Automation Engineer,15,"Python,Java,Ruby,JavaScript,C#",24,24,70.40850327,47.68538941,Expert,17
+531251307,Olivia Adams,Front-End Developer,15,"HTML,CSS,JavaScript,TypeScript",50,26,9.898527131,18.17913021,Expert,17
+892623118,Lauren Harris,Big Data Engineer,7,"Java,Scala,JavaScript,Bash",92,30,7.025488304,78.80465451,Expert,18
+657317446,Matthew Turner,Cloud Engineer,7,"Ruby,JavaScript,Node.js,Java,PowerShell,Bash",12,18,6.612719291,83.90333134,Expert,18
+324598662,David Clark,Product Manager,14,"SQL,JavaScript,Python,R,HTML,CSS",83,10,54.85268535,18.96110211,Expert,18
+623402816,Megan Thompson,User Researcher,9,"Python,R,SQL",89,13,28.35723229,40.61318695,Expert,19
+394048455,Patrick Turner,Blockchain Developer,15,"C++,Java,JavaScript,Node.js,Python,Ruby",54,12,25.08847898,8.793414823,Expert,19
+213152671,Ashley Hill,Automation Engineer,12,"Python,Java,Ruby,JavaScript,C#",56,28,76.1373615,15.8544051,Expert,19
+643154801,Ashley Hilleyyy,Mobile App Developer,4,"Swift,Kotlin,Java,JavaScript,Dart,Ruby",43,23,21.44812206,92.18265315,Expert,20
+232653901,Samantha Carter,AI Ethics Researcher,10,"Python,Julia,SAS,MATLAB,SQL ,Ruby",81,11,98.15690577,66.24774265,Expert,20
+892960804,Tyler Roberts,Front-End Developer,6,"HTML,CSS,JavaScript,TypeScript",24,13,36.86832636,51.45729749,Expert,21
+505682832,Maria Walker,DevOps Engineer,10,"Bash,Python,Ruby,Perl,JavaScript,Node.js",18,11,71.76760698,82.17016754,Expert,21
+240815365,Eric Harris,Web Developer,15,"HTML,CSS,Java,#C,Python",26,30,85.80746803,72.51240035,Expert,21
+464144325,Jessica Taylor,User Researcher,13,"User Research Methodologies,Data Analysis,User Persona Development
+",53,18,87.43837288,56.61139691,Expert,22
+136952378,Daniel Davis,Data Scientist,10,"Julia,Scala,SAS,MATLAB",51,24,62.24252777,35.33984952,Expert,22
+407538166,Natalie Hill,Big Data Engineer,14,"Java,Scala,Bash",8,18,0.240153544,83.42121171,Expert,22
+833068961,Ryan Foster,Business Analyst,9,"SQL,Python,R",77,19,78.60904463,41.32321315,Expert,23
+315109543,Amanda Wright,Software Architect,5,"TypeScript,Go (Golang),Scala,Kotlin,Rust",84,28,11.7598617,64.52705864,Expert,23
+844806961,William Martinez,Cloud Engineer,13,"Python
+Go (Golang)
+Ruby
+JavaScript                        Node.js
+Java",50,14,65.9765151,6.740532431,Expert,23
+543818702,Rachel prof,Back-End Developer,10,"Java,Python,Ruby,PHP,Node.js ,C#,Go",34,17,33.97950058,35.56733464,Expert,24
+830662863,Rachel Johnson,Game Developer,8,"C++,C#,JavaScript,Python,Java,Lua,UnrealScript,GDScript",45,20,36.82116924,18.49258218,Expert,24
+317705813,Nicholas broen,Mobile App Developer,7,"JavaScript,Dart,C#,C,HTML,CSS,JavaScript,Python,Ruby",26,17,51.0928293,56.04572833,Expert,25
+438825797,Benjamin Anderson,Game Developer,12,"C++,C#,JavaScript,GDScript,Ruby,Haxe",19,24,91.57048371,0.560235245,Expert,25
+678212010,Jennifer Foster,DevOps Engineer,13,"Bash,Python,Ruby,Perl",15,15,58.46423672,47.87688587,Expert,25
+637297594,Stephanie Miller,Automation Engineer,5,"Python,Java,Ruby,JavaScript,C#",14,28,76.32804067,63.01335522,Expert,27
+122406020,Samuel Walker,Business Analyst,8,"SQL,Python,R",13,22,91.56634286,89.05855565,Expert,27
+639291894,Brian Lewis,Back-End Developer,4,"SQL,NoSQL,RESTful API Design",79,22,66.14503201,28.13035246,Expert,28
+794810333,Olivia Phillips,Cloud Engineer,10,"Python,Go (Golang),Ruby,NLP,PHP",25,12,72.96824103,84.85252844,Expert,28
+689828443,Matthew Anderson,Front-End Developer,15,"HTML,CSS,JavaScript,TypeScript ",18,16,83.0197239,51.72143981,Expert,28
+300044920,Zachary Turner,Data Scientist,11,"Scala,SAS,MATLAB,Java ,C++ ,Ruby",88,11,26.46206022,0.598695424,Expert,29
+599353911,Christopher Davis,UI/UX Designer,14,"HTML,CSS,JavaScript,TypeScript,Sass",83,30,59.86091892,57.63739286,Expert,29
+340181259,Sarah Martinez,Big Data Engineer,11,"Java,Scala,Python,SQL,R,Bash",24,22,44.1937098,23.58341668,Expert,30
+405944770,Natalie Clark,Web Developer,8,"HTML,CSS,JavaScript,TypeScript ,Python,Ruby",85,25,17.61711014,28.67267566,Expert,30
+661662988,Daniel Turner,Software Architect,15,"TypeScript,Go (Golang),Scala,Kotlin,Rust",54,15,49.58267636,52.29872947,Expert,31
+235176311,Michael Harris,Data Scientist,4,"Python,MATLAB,NLP,UI/UX",76,16,92.10274523,25.97866292,Expert,31
+200790446,Amanda Young,fullrontend Developer,5,"Python,NLP,C#,PHP,Perl",95,20,43.94257207,99.13567888,Expert,32
+728844628,Rachel Davis,Blockchain Developer,5,"Big Data,Python,Solidity,Vyper,Rust,Go (Golang),C++",83,23,20.34728545,53.37476502,Expert,32
+689542829,Kevin Martinez,DevOps Engineer,5,"Solidity,cryptography,Ruby ,Perl,Go (Golang),Groovy,PowerShell",53,25,10.40530006,85.81361167,Expert,33

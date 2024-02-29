@@ -1,0 +1,21 @@
+Emp.id,Employee Name,Role,Experience,Skill Set,No of Tasks Completed,Avg Time To Finish Tasks (in Days),SuccessFull Completions Percentage,Approved OnTime,Category
+616739279,Sindhu,DevOps Engineer,3,"Bash,Python,Ruby,Perl,JavaScript,Node.js",26,17,59.11262741,41.84004137,Inexpert
+502085478,Ryan Davis,Front-End Developer,1,"HTML/CSS,JavaScript,TypeScript ",45,28,82.76291677,94.48856077,Inexpert
+646356537,Matthew Taylor,Software Architect,2,"Ruby,TypeScript,Go (Golang),Scala,Kotlin,Rust",19,11,2.641088867,12.62161013,Inexpert
+190530391, Ashley Green,Full-Stack Developer,1,"HTML,CSS,JavaScript,TypeScript,Java,Python",64,18,54.83884866,3.800760035,Inexpert
+908175568,Daniel Cooper,Front-End Developer,3,"HTML,CSS,JavaScript,TypeScript",25,17,90.26997116,10.05536507,Inexpert
+606546053,John Davis,Mobile App Developer,3,"Dart,C#,C,HTML,CSS,JavaScript,Python,Ruby",55,29,60.0326159,74.7269927,Inexpert
+311548009,Zachary Miller,Game Developer,2,"C++,C#,JavaScript,Python,Java,Ruby,Haxe",47,12,84.70094261,20.55796407,Inexpert
+807969105,"Brian Whiteyy
+
+",Web Developer,2,"HTML,CSS,JavaScript,TypeScript ,Java",61,19,26.50101455,39.16893496,Inexpert
+844410493,Kevin Anderson,UI/UX Designer,1,"HTML,CSS,JavaScript,TypeScript ,Sass",29,19,68.89554792,42.17011661,Inexpert
+422292047,Heather Turner,Full-Stack Developer,0,"Python,Ruby,PHP,C#,Node.js,SQL",98,21,6.339985554,4.282918252,Inexpert
+625770567,Robert Clark,User Researcher,3,"Python,R,SQL",19,28,16.98299162,93.88311353,Inexpert
+660228818,Allison Davis,Web Developer,3,"HTML,CSS,JavaScript,TypeScript ,Python",82,18,62.69100309,10.93399326,Inexpert
+572355087,Jonathan Taylor,Blockchain Developer,0,"Solidity,Vyper,Rust,Go (Golang),C++",29,27,57.99234248,28.07612533,Inexpert
+226747485,Emily Hill,AI Ethics Researcher,0,"Python,Julia,SAS,MATLAB,SQL ,Ruby",98,13,20.04229663,82.9876281,Inexpert
+745927714,Lauren Johnson,Product Manager,2,"SQL,JavaScript,Python,R,HTML,CSS",53,20,80.16034816,74.30642937,Inexpert
+139664490,Andrew Taylor,Mobile App Developer,0,"Swift,Kotlin,Java,Python,Ruby",20,26,71.9244175,3.333306925,Inexpert
+525941515,Jessica Thompson,Game Developer,0,"Python,Java,Lua,UnrealScript,GDScript,Ruby,Haxe",23,19,90.14008255,34.85443779,Inexpert
+333822303,Tyler Walker,Full-Stack Developer,1,"JavaScript,TypeScript,Java,UI/UX,Python,Node.js,Ruby",4,14,50.44090846,22.81030909,Inexpert

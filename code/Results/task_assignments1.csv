@@ -1,0 +1,103 @@
+Task ID,Task Name,Assigned Employee,Similarity Level
+773, AI-driven healthcare,David Clark,0.5393598899705937
+715,autonomous vehicles,Jessica Taylor,0.4216370213557839
+907,chatbots,John Davis,0.4629100498862757
+899,recommendation systems,Matthew Taylor,0.40089186286863654
+855,Decentralized finance,David Mitchell,0.5345224838248487
+575,NFT platforms,Kevin Anderson,0.47809144373375745
+140,blockchain-based supply chain,Joshua Wilson,0.3779644730092272
+833,Cybersecurity consulting,Zachary Miller,0.3380617018914066
+508,threat detection solutions,Robert Clark,0.4472135954999579
+802,secure application development,Harini,0.3779644730092272
+454,E-commerce websites,"Brian Whiteyy
+
+",0.44721359549995787
+435,content management systems,Olivia Clark,0.4082482904638631
+663,web app development.,Jessica Taylor,0.47809144373375745
+419,Data-driven marketing,Daniel Turner,0.4330127018922194
+540,business intelligence,Jessica Turner,0.4472135954999579
+315,predictive analytics,Jessica Taylor,0.4216370213557839
+341,Smart home automation,Robert Clark,0.24999999999999994
+572,industrial IoT solutions,Matthew Turner,0.40089186286863654
+126,wearable tech,Amanda Young,0.4082482904638631
+807,Cloud migration services,Daniel Cooper,0.17677669529663687
+960,cloud-native app development,sai panshul,0.4714045207910316
+193, cloud infrastructure management,Tyler Walker,0.30151134457776363
+246,Mobile games,Heather Turner,0.3086066999241838
+165,health and fitness apps,Natalie Hill,0.3849001794597505
+663,on-demand services,Jessica Taylor,0.4472135954999579
+174,Data pipelines,Alyssa Adams,0.3162277660168379
+795,data integration platforms,Kevin Anderson,0.3380617018914066
+720,data lakes,Amanda Wright,0.408248290463863
+183,AR/VR training simulations,Brian Lewis,0.6741998624632421
+382,immersive gaming experiences,Kevin Baker,0.36514837167011077
+463,architectural visualization,John Davis,0.4330127018922194
+205,Quantum cryptography,Nicholas Turner,0.4330127018922194
+155,optimization solutions,Christina Martinez,0.6363636363636365
+366,quantum software development,Kevin Martinez,0.4472135954999579
+624,Industrial automation,Tyler Walker,0.2519763153394848
+456,healthcare robotics,Rachel Johnson,0.3086066999241838
+194,autonomous drones,Lauren Johnson,0.3162277660168379
+465,Creating Immersive Virtual Worlds,Rachel Davis,0.4472135954999579
+862,Streamlining Software Delivery and Deployment,Ryan Davis,0.17677669529663687
+740,Visualizing Data for Insights,Olivia Phillips,0.5443310539518174
+219,Innovations in Embedded Technology,Matthew Turner,0.6681531047810608
+320,Unlocking the Secrets of Genomes,Tyler Walker,0.35355339059327373
+972,Mastering Financial Algorithm,Heather Turner,0.1543033499620919
+541,Mapping the World Digitally,Rachel Davis,0.4999999999999999
+285,Securing the Cloud Ecosystem,Daniel Turner,0.3086066999241838
+108,Understanding Human Language with AI,Tyler Walker,0.2721655269759087
+792,Building Robust Network Infrastructures,Brian Lewis,0.5962847939999438
+749,Revolutionizing Learning with AR,Patrick Miller,0.408248290463863
+679,Managing Data at Scale,Elizabeth Taylor,0.4714045207910318
+750,Shaping the Future with 3D Printing,Rachel Davis,0.40089186286863654
+551,Creating Stunning Visuals in Virtual Worlds,Amanda Young,0.35355339059327373
+196,Improving Healthcare Through Data,Christopher Lee,0.40089186286863654
+460,Tech Innovations in Agriculture,Alyssa Adams,0.50709255283711
+494,E-commerce Success Strategies,John Davis,0.3333333333333334
+747,Exploring the Cosmos with Technology,Kevin Anderson,0.25819888974716115
+568,Designing User-Centric Experiences,Jessica Taylor,0.6000000000000001
+142,Efficiency in Supply Chain Operations,Samantha Turner,0.7559289460184544
+607,Sustainable Energy Solutions,Michael Harris,0.3380617018914066
+802,Financial Innovation in the Digital Age,Anu,0.4330127018922194
+662,Securing the Mobile World,sai panshul,0.4714045207910316
+420,Revolutionizing Education with Technology,Matthew Taylor,0.5714285714285713
+146,The Future of Identity Verification,Emily Hill,0.13608276348795434
+964,Protecting Digital Privacy,Jonathan Taylor,0.14907119849998596
+623,Safeguarding the Environment with Data,Tyler Walker,0.4714045207910316
+303,Automating Business Processes with Robots,Olivia Phillips,0.4629100498862757
+671,Understanding Human Behavior in Economics,Tyler Walker,0.3333333333333333
+424,Uncovering Cyber Threats,Robert Clark,0.26726124191242434
+679,Navigating Data Privacy Regulations,Kevin Anderson,0.282842712474619
+969,Exploring the Brain with Data,Allison Davis,0.2981423969999719
+899,AI Strategies in Video Games,Tyler Walker,0.35355339059327373
+434,Blockchain in the Supply Chain,Justin Thompson,0.4082482904638631
+691,Building a Sustainable Future,Alyssa Adams,0.44721359549995787
+934,Transforming Healthcare with AR/VR,Rachel Davis,0.3749999999999999
+597,Social Media Insights,sai panshul,0.6249999999999999
+713,Tech Solutions for Legal Challenges,Olivia Phillips,0.4714045207910318
+701,Ethical Data Use in Technology,Zachary Turner,0.3162277660168379
+696,The Future of Space Travel,Ryan Davis,0.1889822365046136
+175,Monitoring Earth from Space,Lauren Johnson,0.47434164902525683
+270,Learning Through Entertainment,Jessica Turner,0.5345224838248487
+297,Exploring the Universe,Zachary Turner,0.50709255283711
+759,Automating Industries with Technology,Jonathan Taylor,0.26967994498529685
+521,Interacting with Robots,Brian Lewis,0.6324555320336758
+962,Exploring the Oceans,Jessica Taylor,0.6000000000000001
+207,Small Tech Big Impact,Justin Thompson,0.3779644730092272
+515,Modeling Climate Change,Allison Davis,0.3380617018914066
+917,Building Smarter Cities,Lauren Brown,0.40089186286863654
+757,Integrating Renewable Energy,sai panshul,0.4472135954999579
+744,Engineering Life,Kevin Baker,0.3162277660168379
+173,Voice-Powered Technology,Tyler Walker,0.3779644730092272
+662,Automating Crypto Trading,Andrew Taylor,0.3380617018914066
+789,Tech in the Food Industry,Brian Lewis,0.44721359549995787
+696,Wearable Health Devices,Alyssa Adams,0.44721359549995787
+730,AI in Farming,sai panshul,0.4472135954999579
+853,Colonizing Other Worlds,Amanda Wright,0.4629100498862757
+729,Shaping Energy Policy,Justin Thompson,0.5669467095138407
+291,Understanding Human Behavior,Kevin Martinez,0.26726124191242434
+706,Computers with Emotions,Andrew Taylor,0.3162277660168379
+142,Guardians of the Digital Realm,Tyler Walker,0.4811252243246882
+252,Beyond Earth: Space Frontier,Emily Hill,0.1666666666666667
+321,Driving the Future: Autonomous Mobility,Lauren Johnson,0.3380617018914066
