@@ -1,0 +1,101 @@
+Task id,Task Name,Task Requirement Skills,Level of Urgency,Due Date in days
+773, AI-driven healthcare,"Python, JavaScript, SQL, HTML, User Persona Development, RESTful API Design, NLP",High,17
+715,autonomous vehicles,"MATLAB, Rust, Scala, User Research Methodologies, WebGL, UnrealScript, Swift",Medium,19
+907,chatbots,"Ruby, Bash, CSS, JavaScript, Cryptography, C#, PHP, HiveQL",Low,28
+899,recommendation systems,"Go (Golang), TypeScript, JSON, C++, Big Data, NoSQL, HTML",Low,28
+855,Decentralized finance,"Java, C++, AWS, Data Analysis, Kotlin, Python, Dart, R smart contracts,dApps",High,27
+575,NFT platforms,"Solidity, NLP, Pig Latin, Sass or Less, UI/UX, Haxe, Groovy smart contracts,HTML, CSS, JavaScript",Medium,27
+140,blockchain-based supply chain,"Julia, SAS, AWS, PowerShell, C, XML, Spark, JSON",High,23
+833,Cybersecurity consulting,"C#, R, Kotlin, Java, JavaScript, SVG, RESTful API Design Security ,cybersecurity tools",Medium,27
+508,threat detection solutions,"Perl, Data Analysis, User Persona Development, HTML, Python, SQL, Kotlin",Low,22
+802,secure application development,"Node.js, Swift, UnrealScript, Lua, Big Data, Haxe, WebGL",Medium,18
+454,E-commerce websites,"CSS, Java, TypeScript, Sass or Less, Dart, HiveQL, JSON",Medium,26
+435,content management systems,"SQL, C++, PHP, Scala, Rust, Solidity, AWS",High,20
+663,web app development.,"User Research Methodologies, C, Julia, R, MATLAB, NLP, PowerShell",High,14
+419,Data-driven marketing,"Rust, Java, Go (Golang), UI/UX, C#, Cryptography, JSON",Medium,12
+540,business intelligence,"Julia, Data Analysis, Python, JavaScript, HTML, SVG, RESTful API Design",High,26
+315,predictive analytics,"Scala, Swift, UnrealScript, Kotlin, User Persona Development, XML, Groovy",High,27
+341,Smart home automation,"Bash, Pig Latin, NoSQL, AWS, SQL, Haxe, Spark",Low,28
+572,industrial IoT solutions,"Node.js, SAS, C++, Lua, CSS, Big Data, PowerShell electronics",Medium,23
+126,wearable tech,"R, TypeScript, Dart, PHP, Solidity, WebGL, NLP",High,27
+807,Cloud migration services,"MATLAB, Rust, C, User Research Methodologies, JavaScript, JSON, HiveQL",Medium,30
+960,cloud-native app development,"UnrealScript, Go (Golang), C#, SVG, Java, Sass or Less, HTML",Medium,15
+193, cloud infrastructure management,"Kotlin, Python, Scala, Data Analysis, UI/UX, RESTful API Design, JSON",Low,26
+246,Mobile games,"TypeScript, Swift, Groovy, SQL, NLP, AWS, PHP",Medium,28
+165,health and fitness apps,"Lua, Bash, CSS, Big Data, Pig Latin, Java, Kotlin",High,22
+663,on-demand services,"User Persona Development, SAS, C++, Haxe, HTML, Rust, XML",Medium,20
+174,Data pipelines,"Node.js, MATLAB, Dart, Cryptography, UnrealScript, JSON, Solidity",High,16
+795,data integration platforms,"Rust, PHP, Sass or Less, R, C#, PowerShell, JavaScript",Medium,27
+720,data lakes,"C, Go (Golang), HiveQL, UI/UX, WebGL, Scala, Data Analysis",High,28
+183,AR/VR training simulations,"AWS, NoSQL, SVG, User Research Methodologies, RESTful API Design, SQL, Python",High,21
+382,immersive gaming experiences,"C++, Swift, Kotlin, HTML, NLP, Lua, Spark",Medium,16
+463,architectural visualization,"Dart, Ruby, UnrealScript, Groovy, Big Data, MATLAB, CSS",Low,27
+205,Quantum cryptography,"Javascript, TypeScript, SAS, PHP, Rust, Java, Pig Latin",Medium,15
+155,optimization solutions,"JSON, C#, Data Analysis, Bash, Cryptography, Node.js, XML, User Persona Development",High,24
+366,quantum software development,"Scala, Haxe, Solidity, PowerShell, SQL, Go (Golang), Sass or Less",High,17
+624,Industrial automation,"HTML, SVG, AWS, C, NLP, UI/UX, Kotlin",Low,24
+456,healthcare robotics,"Lua, Rust, HiveQL, UnrealScript, Groovy, SAS, TypeScript",Medium,18
+194,autonomous drones,"JavaScript, JSON, Kotlin, PHP, SQL, Dart, Data Analysis",Medium,29
+465,Creating Immersive Virtual Worlds,"Python, C++, Scala, Solidity, Pig Latin, RESTful API Design, Big Data",Medium,16
+862,Streamlining Software Delivery and Deployment,"MATLAB, R, Swift, User Research Methodologies, NoSQL, XML, CSS",Low,16
+740,Visualizing Data for Insights,"C#, Go (Golang), HTML, Sass or Less, NLP, Ruby, AWS",High,14
+219,Innovations in Embedded Technology,"Node.js, Bash, PowerShell, JavaScript, SVG, UnrealScript, Groovy",High,29
+320,Unlocking the Secrets of Genomes,"Rust, Lua, Kotlin, Java, SQL, UI/UX, HiveQL",Low,28
+972,Mastering Financial Algorithm,"SAS, Dart, Data Analysis, C++, JSON, Cryptography, PHP",Low,23
+541,Mapping the World Digitally,"HTML, Rust, Python, Scala, Solidity, PHP, Data Analysis",High,26
+285,Securing the Cloud Ecosystem,"XML, Kotlin, TypeScript, C, Big Data, UnrealScript, NoSQL",Medium,21
+108,Understanding Human Language with AI,"UI/UX, SAS, JSON, AWS, C#, Bash, R",Medium,28
+792,Building Robust Network Infrastructures,"Lua, SQL, NLP, Groovy, JavaScript, SVG, RESTful API Design",High,23
+749,Revolutionizing Learning with AR,"Node.js, PowerShell, HiveQL, HTML, Dart, MATLAB, CSS",High,26
+679,Managing Data at Scale,"Java, Sass or Less, Go (Golang), Ruby, Kotlin, User Persona Development, Rust",High,13
+750,Shaping the Future with 3D Printing,"Cryptography, UnrealScript, C++, Swift, NoSQL, Solidity, Big Data",High,12
+551,Creating Stunning Visuals in Virtual Worlds,"PHP, Scala, Data Analysis, Python, Haxe, JSON, XML",High,10
+196,Improving Healthcare Through Data,"JavaScript, R, AWS, Lua, UI/UX, Pig Latin, TypeScript",Medium,22
+460,Tech Innovations in Agriculture,"Kotlin, SAS, SQL, Node.js, Bash, C, SVG",High,13
+494,E-commerce Success Strategies,"Rust, HiveQL, UnrealScript, Groovy, Dart, HTML, C#",Medium,28
+747,Exploring the Cosmos with Technology,"NLP, Sass or Less, Go (Golang), CSS, PowerShell, MATLAB, RESTful API Design",Low,16
+568,Designing User-Centric Experiences,"Data Analysis, User Persona Development, PHP, NoSQL, Scala, Kotlin, Rust",Medium,21
+142,Efficiency in Supply Chain Operations,"Java, Swift, AWS, SQL, Python, JavaScript, JSON",Medium,20
+607,Sustainable Energy Solutions,"Solidity, UnrealScript, C++, SAS, HiveQL, UI/UX, SVG",Medium,17
+802,Financial Innovation in the Digital Age,"Ruby, HTML, CSS, Node.js, XML, Lua, Cryptography",High,19
+662,Securing the Mobile World,"Groovy, R, Big Data, TypeScript, PHP, Sass or Less, NLP ",Medium,10
+420,Revolutionizing Education with Technology,"Kotlin, Go (Golang), Rust, JavaScript, UnrealScript, SQL, C#",Medium,26
+146,The Future of Identity Verification," MATLAB, HiveQL, Dart, User Persona Development, AWS, C++, Data Analysis",Low,29
+964,Protecting Digital Privacy,"Bash, Solidity, XML, NoSQL, Scala, SVG, RESTful API Design",Low,17
+623,Safeguarding the Environment with Data,"UI/UX, SAS, Python, HTML, Lua, Java, PowerShell",Medium,26
+303,Automating Business Processes with Robots,"PHP, Groovy, JSON, Ruby, CSS, NLP, Swift",High,19
+671,Understanding Human Behavior in Economics,"TypeScript, Node.js, Haxe, SAS, Cryptography, Kotlin, Big Data",Low,23
+424,Uncovering Cyber Threats,"Rust, C, UnrealScript, Data Analysis, SQL, AWS, Dart",Low,20
+679,Navigating Data Privacy Regulations,"Go (Golang), HiveQL, Sass or Less, SVG, JavaScript, PowerShell, XML",Low,17
+969,Exploring the Brain with Data,"User Research Methodologies, C++, Scala, HTML, Solidity, PHP, Rust, Python",Low,23
+899,AI Strategies in Video Games,"NoSQL, NLP, Lua, UI/UX, Java, CSS, MATLAB",Low,25
+434,Blockchain in the Supply Chain,"SQL, Kotlin, C#, Ruby, Groovy, UnrealScript, JSON",High,23
+691,Building a Sustainable Future," TypeScript, SAS, Node.js, Cryptography, Data Analysis, Swift, PHP",High,16
+934,Transforming Healthcare with AR/VR,"JavaScript, Rust, HiveQL, Big Data, AWS, Dart, SVG",Medium,15
+597,Social Media Insights,"CSS, Sass or Less, C, HTML, PowerShell, Scala, SQL",Medium,15
+713,Tech Solutions for Legal Challenges,"XML, Go (Golang), User Persona Development, NLP, Lua, Python, RESTful API Design",Medium,19
+701,Ethical Data Use in Technology,"Ruby, UnrealScript, SAS, Kotlin, UI/UX, NoSQL, Groovy",High,27
+696,The Future of Space Travel,"MATLAB, PHP, Data Analysis, Solidity, C++, TypeScript, AWS",Medium,30
+175,Monitoring Earth from Space," JSON, Rust, HTML, CSS, Node.js, SQL, Dart",Low,22
+270,Learning Through Entertainment,"Haxe, Cryptography, Python, JavaScript, SVG, NLP, HiveQL",High,30
+297,Exploring the Universe,"UnrealScript, Kotlin, Ruby, SAS, Lua, Scala, PowerShell",High,24
+759,Automating Industries with Technology,"Go (Golang), Sass or Less, Groovy, XML, UI/UX, Big Data, C#",Medium,30
+521,Interacting with Robots,"NoSQL, RESTful API Design, Rust, PHP, C, HTML, SVG",Medium,15
+962,Exploring the Oceans,"Dart, SAS, Data Analysis, Kotlin, JavaScript, AWS, User Research Methodologies",High,30
+207,Small Tech Big Impact,"SQL, Swift, CSS, UnrealScript, Ruby, Solidity, NLP",High,24
+515,Modeling Climate Change,"Python, Lua, HiveQL, PowerShell, TypeScript, Cryptography, SVG",Low,24
+917,Building Smarter Cities," Groovy, Rust, Node.js, XML, Big Data, C++, HTML",High,30
+757,Integrating Renewable Energy,"Scala, Sass or Less, Java, UnrealScript, PHP, Go (Golang), CSS",High,25
+744,Engineering Life,"JavaScript, SAS, Kotlin, NoSQL, Rust, Data Analysis, NLP",High,27
+173,Voice-Powered Technology,"C#, AWS, SQL, Dart, Ruby, Haxe, UI/UX",Low,25
+662,Automating Crypto Trading,"MATLAB, Python, Swift, HiveQL, JSON, SVG, Cryptography",Low,25
+789,Tech in the Food Industry,"PowerShell, UnrealScript, Groovy, HTML, Scala, Rust, RESTful API Design",Medium,16
+696,Wearable Health Devices,"C, Node.js, CSS, Data Analysis, PHP, UI/UX, Kotlin",Medium,18
+730,AI in Farming," Sass or Less, Rust, Java, NoSQL, JavaScript, XML, Big Data",High,25
+853,Colonizing Other Worlds," SAS, TypeScript, Go (Golang), NLP, C++, Cryptography, AWS",Medium,15
+729,Shaping Energy Policy,"Python, Lua, SQL, Ruby, Dart, HiveQL, Solidity",Medium,18
+291,Understanding Human Behavior,"MATLAB, Groovy, UnrealScript, PowerShell, SVG, HTML, Rust",High,19
+706,Computers with Emotions,"Swift, C#, User Research Methodologies, Kotlin, JSON, PHP, CSS",Low,28
+142,Guardians of the Digital Realm,"Node.js, Sass or Less, Scala, JavaScript, UI/UX, NoSQL, Data Analysis",Medium,25
+252,Beyond Earth: Space Frontier,"UnrealScript, C, SAS, AWS, Big Data, NLP, SQLite",Low,26
+321,Driving the Future: Autonomous Mobility,"Haxe, SQL, Dart, Rust, Cryptography, SVG, HTML",Medium,28
